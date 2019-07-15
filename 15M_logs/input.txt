@@ -1,0 +1,46 @@
+Job #0620082340 was calculated using the following input parameters:
+ ---------------------------------------------
+Initial Mass: 15.0 (solar mass)
+
+Nuclear Reaction Network: agb.net
+
+Sampled Nuclear Reaction: none
+
+Initial Metallicity: 0.02
+
+Mixing Length Alpha: 2.0
+
+Mixing Length Theory Implementation: Cox
+
+Convective Overshoot f: 0.010
+
+Convective Overshoot f0: 0.004
+
+Semi-Convection Alpha: 0.00
+
+Thermohaline Alpha: 0.0
+
+Thermohaline Mixing Implementation: Kippenhahn
+
+Red Giant Branch Wind Scheme: Dutch
+
+RGB Wind Scaling Factor: 0.0 
+
+Asymptotic Giant Branch Wind Scheme: Dutch
+
+AGB Wind Scaling Factor: 0.0 
+
+Initial Rotational Value: 0.0 (omega_initial/omega_critical)
+
+Variance Control Target: 1d-4
+
+Mesh Delta Coefficient: 2.0
+
+dX_nuc_drop_min_X_limit: 1d-4
+
+---------------------------------------------
+Your model completed with the following termination code:
+fe_core_infall_limit = 1d8
+ ---------------------------------------------
+
+Thank you for using MESA-Web! 
